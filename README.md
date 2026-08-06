@@ -39,6 +39,7 @@ There are currently **140 tools** across 9 categories.
 - [Pixel Art Maker](https://privatool.com/tools/pixel-art-maker): Create pixel art with fill tool, mirror mode, and animation frames. Download PNG or GIF.
 - [Image Watermark](https://privatool.com/tools/image-watermark): Add text or logo watermark to images online free. Customize position, opacity, and style.
 - [EXIF Viewer & Remover](https://privatool.com/tools/exif-viewer): View and remove EXIF metadata from photos. Check GPS location, camera info, and timestamps.
+- [AI Metadata Remover](https://metadataremover.ai/ai-metadata-remover): Remove prompts, seeds, model names and workflow data from AI-generated images locally in the browser. No upload or signup.
 - [PNG to JPG Converter](https://privatool.com/tools/png-to-jpg): Convert PNG to JPG online free. Adjust quality to shrink file size. No upload — files convert locally in your browser.
 - [JPG to PNG Converter](https://privatool.com/tools/jpg-to-png): Convert JPG to PNG online free. Get a lossless PNG image. No upload — files convert locally in your browser.
 - [WebP to PNG Converter](https://privatool.com/tools/webp-to-png): Convert WebP to PNG online free. Get a lossless PNG image. No upload — files convert locally in your browser.
