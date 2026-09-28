@@ -21,6 +21,7 @@ There are currently **140 tools** across 9 categories.
 - [Contributing](#contributing)
 
 ## Image Tools
+- [File Converter](https://fileontap.com/) - Browser-local HEIC/WebP/PNG/JPG conversion and PDF workflows; no upload or account.
 
 - [Image Compressor](https://privatool.com/tools/image-compressor): Compress JPG, PNG, WebP images online free. Reduce file size up to 80% without losing quality.
 - [Image Resizer](https://privatool.com/tools/image-resizer): Resize images to custom dimensions or social media presets online free.
