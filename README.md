@@ -4,7 +4,7 @@
 
 All tools are free and require no account. Built and maintained at **[privatool.com](https://privatool.com)**.
 
-There are currently **140 tools** across 9 categories.
+There are currently **141 tools** across 9 categories.
 
 ## Contents
 
@@ -12,7 +12,7 @@ There are currently **140 tools** across 9 categories.
 - [PDF Tools](#pdf-tools) (29)
 - [Developer Tools](#developer-tools) (36)
 - [Text Tools](#text-tools) (19)
-- [Converter Tools](#converter-tools) (6)
+- [Converter Tools](#converter-tools) (7)
 - [Color Tools](#color-tools) (5)
 - [SEO Tools](#seo-tools) (4)
 - [Finance Tools](#finance-tools) (7)
@@ -155,6 +155,7 @@ There are currently **140 tools** across 9 categories.
 - [Timezone Converter](https://privatool.com/tools/timezone-converter): Convert time between world timezones. Compare multiple zones with business hours indicator.
 - [Roman Numeral Converter](https://privatool.com/tools/roman-numeral-converter): Convert numbers to Roman numerals and Roman numerals to numbers. Supports 1–3,999,999 with batch conversion.
 - [Percentage Calculator](https://privatool.com/tools/percentage-calculator): Calculate percentages: X% of Y, percentage change, discount, tax, and percentage difference. 5 modes.
+- [Engagement Rate Calculator (Spanish)](https://comprarseguidoresig.es/tools/engagement-rate): Calculate (likes + comments) / followers, reach or views as a percentage from manual inputs in your browser.
 
 ## Color Tools
 
